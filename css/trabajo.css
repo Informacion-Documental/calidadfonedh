@@ -1,0 +1,46 @@
+head{
+    background-color: burlywood;
+    color: brown;
+}
+
+.hero{
+    background-image: url(../img/Captura.PNG);
+    background-position: center;
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 100px;
+}
+    
+.color-nav{
+    color: black;
+}
+.control-shadow{
+    box-shadow: 5px 5px 8px black;
+}
+
+.texto-shadow{
+    text-shadow: 5px 5px 20px black;
+}  
+
+.height-card{
+    height: 400px;
+}
+
+.imagen-1{
+    height:40px;
+    width: 40px;
+}
+
+.caja{
+    height: 700px;
+
+}
+
+.footer{
+    height: 0px;
+}
+
+.cajaDos{
+    width: 400px
+}
+
