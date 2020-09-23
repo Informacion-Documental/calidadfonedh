@@ -3,10 +3,10 @@ var done=0;
 var usuario=document.login.usuario.value; 
 var password=document.login.password.value; 
 
-if (usuario=="ed" && password=="ed") { 
+if (usuario=="ed" && password=="Admi") { 
     window.location="https://sites.google.com/view/calidadfonedh/p%C3%A1gina-principal?authuser=1"; 
 } else{
-    if (usuario=="as" && password=="as") { 
+    if (usuario=="as" && password=="Admi") { 
         window.location="https://sites.google.com/view/calidadfonedh/p%C3%A1gina-principal?authuser=1"; 
 } else{
     if (usuario=="" && password=="") { 
