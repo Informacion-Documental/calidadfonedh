@@ -4,12 +4,7 @@ var usuario=document.login.usuario.value;
 var password=document.login.password.value; 
 
 if (usuario=="Admi" && password=="Admi") { 
-    
-    (link, function (login){ 
-var html = response;
-var html_src = 'https://sites.google.com/view/calidadfonedh/p%C3%A1gina-principal?authuser=1,' + html;
-$("#iframeId").attr("src" , html_src);
-})
+    window.location="https://sites.google.com/view/calidadfonedh/p%C3%A1gina-principal?authuser=1"; 
 } else{
     if (usuario=="asesorcalidad" && password=="Dralei89") { 
         window.location="https://sites.google.com/view/calidadfonedh/p%C3%A1gina-principal?authuser=1"; 
